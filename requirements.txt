@@ -1,0 +1,6 @@
+groq
+speechrecognition
+pygame
+edge-tts
+pyautogui
+Pillow
